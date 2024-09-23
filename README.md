@@ -1,7 +1,7 @@
 # Everything Counts
 
-This repository containts materials for the Everything Counts module,
-namely labs and exercises, both as Jupyter Notebooks.
+This repository contains materials for the 2024/25 MASc Everything
+Counts module, namely labs and exercises, both as Jupyter Notebooks.
 
 *Note on structure*: materials are organised by week, placed in a
  subfolder for that week.
