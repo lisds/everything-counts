@@ -3,7 +3,10 @@
 This repository containts materials for the Everything Counts module,
 namely labs and exercises, both as Jupyter Notebooks.
 
-Note on nomenclature: 01-1-lab means "week 1" "class 1" "lab".
+*Note on structure*: materials are organised by week, placed in a
+ subfolder for that week.
+
+*Note on nomenclature*: 01-1-lab means "week 1" "class 1" "lab".
 
 The files are based on the excellent work of [Vural
 Aksakalli](https://github.com/akmand/statististics_tutorials) and
