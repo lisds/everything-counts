@@ -1,7 +1,5 @@
 # Everything Counts
 
-HELLO MASC STUDENTS.
-
 This repository contains materials for the 2024/25 MASc Everything
 Counts module, namely labs and exercises, both as Jupyter Notebooks.
 
